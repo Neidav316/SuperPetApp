@@ -28,4 +28,7 @@ will contain:
 * OpenStreetMapAPI
 * OpenAPI
 
+### My contribution: ###
+I was responsible for most of the backend development, mostly creating the business logic layer, and created the data layer using MongoDB, additionaly making the server in cloud support 
+
 
